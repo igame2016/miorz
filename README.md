@@ -1,9 +1,9 @@
 # miorz
 
 ![ 刷步数](https://github.com/igame2016/miorz/actions/workflows/run.yml/badge.svg)
-[![GitHub forks](https://img.shields.io/github/forks/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/igame2016/miorz/forks)
-[![GitHub stars](https://img.shields.io/github/stars/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/igame2016/miorz/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/igame2016/miorz/issues)
+[![GitHub forks](https://img.shields.io/github/forks/igame2016/miorz?style=flat-square)](https://github.com/igame2016/miorz/forks)
+[![GitHub stars](https://img.shields.io/github/stars/igame2016/miorz?style=flat-square)](https://github.com/igame2016/miorz/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/igame2016/miorz?style=flat-square)](https://github.com/igame2016/miorz/issues)
 
 ## 小米运动自动刷步数（支持邮箱登录）
 
@@ -13,7 +13,7 @@
     - https://bs.yanwan.store/run4/ 验证码001或998
 - 如无法刷步数同步到支付宝等，建议重新注册一个新的。
 
-### 如果觉得好用，请给一个免费的[star](https://github.com/TonyJiangWJ/mimotion/)吧
+### 如果觉得好用，请给一个免费的[star](https://github.com/igame2016/miorz/)吧
 
 ## Github Actions 部署指南
 
@@ -198,7 +198,7 @@
 
 5. 小米运动不会更新步数，只有关联的会同步！！！！！
 
-6. 请各位在使用时Fork[当前仓库](https://github.com/TonyJiangWJ/mimotion/)，防止出现不必要的bug.
+6. 请各位在使用时Fork[当前仓库](https://github.com/igame2016/miorz/)，防止出现不必要的bug.
 
 7. 请注意，账号不是 [小米账号]，而是 [小米运动/ZeppLife] 的账号。
 
