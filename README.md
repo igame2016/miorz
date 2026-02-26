@@ -1,9 +1,9 @@
-# mimotion
+# miorz
 
-![ 刷步数](https://github.com/TonyJiangWJ/mimotion/actions/workflows/run.yml/badge.svg)
-[![GitHub forks](https://img.shields.io/github/forks/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/TonyJiangWJ/mimotion/forks)
-[![GitHub stars](https://img.shields.io/github/stars/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/TonyJiangWJ/mimotion/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/TonyJiangWJ/mimotion/issues)
+![ 刷步数](https://github.com/igame2016/miorz/actions/workflows/run.yml/badge.svg)
+[![GitHub forks](https://img.shields.io/github/forks/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/igame2016/miorz/forks)
+[![GitHub stars](https://img.shields.io/github/stars/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/igame2016/miorz/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/igame2016/miorz/issues)
 
 ## 小米运动自动刷步数（支持邮箱登录）
 
@@ -158,8 +158,7 @@
 
 ### 六、感谢列表
 
-本项目基于 `https://github.com/xunichanghuan/mimotion(已被ban)`
-和 [https://github.com/huangshihai/mimotion](https://github.com/huangshihai/mimotion) 项目修改，特此感谢
+本项目基于 [https://github.com/TonyJiangWJ/mimotion](https://github.com/TonyJiangWJ/mimotion) 项目修改，特此感谢
 
 新版本登录需要加密，感谢[https://github.com/hanximeng/Zepp_API/blob/main/index.php](https://github.com/hanximeng/Zepp_API/blob/main/index.php)
 里面提供的aes加密密钥。大家可以去给作者点个star
@@ -203,8 +202,8 @@
 
 7. 请注意，账号不是 [小米账号]，而是 [小米运动/ZeppLife] 的账号。
 
-8. 最大步数和最小步数随着时间增长，10点执行时范围为10/22 \* 18000 ~ 10/22 \* 25000：8181 ~
-   11363，以此类推，在北京时间22点达到最大值，即22点执行时随机步数的范围为18000-25000之间。要修改这个范围可以修改CONFIG中的MIN_STEP和MAX_STEP。
+8. 最大步数和最小步数随着时间增长，10点执行时范围为10/15 \* 18000 ~ 10/15 \* 25000：12000 ~
+   13333，以此类推，在北京时间15点达到最大值，即15点执行时随机步数的范围为18000-25000之间。要修改这个范围可以修改CONFIG中的MIN_STEP和MAX_STEP。
 
 9. cron的执行根据github actions的资源进行排队，并不是百分百按指定的时间进行运行，请知悉。
 
